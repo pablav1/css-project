@@ -1,0 +1,48 @@
+<#site_header:{
+background-color:F58A67;
+padding 30px 40px 30px 40px;/>
+}
+
+body{
+font-family: sans-serif;
+background-color: white;
+padding-left: 10px
+padding-right 10px
+border: 1px solid #ffd24a;
+}
+
+#site_header{
+back-ground-color:  #ff8523;
+padding-left: 10px
+padding-right: 10px
+padding-top: 30px
+padding-bottom: 30px
+}
+
+.main_navigation a{
+  border: 1px solid white;
+  text-decoration: none;
+  color: white;
+}
+
+#page_content. h2{
+  padding-top: 20px;
+  color: #1fabes5;
+}
+
+}
+ul li{
+font-weight: bold;
+padding-bottom: 10px;
+
+}
+table,th,td{
+border:1px solid black;
+border-collapse: collape;
+
+}
+thread{
+border-style:-color #fave5;
+padding:inherit 40px
+
+}
